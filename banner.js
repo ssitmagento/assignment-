@@ -1,6 +1,6 @@
 (function() {
      const defaultConfig = {
-        apiUrl: 'https://yourdomain.com/banner.php',
+        apiUrl: 'banner.php',
         width: 728,
         height: 90,
         position: 'bottom-right',

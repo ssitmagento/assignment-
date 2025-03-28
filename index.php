@@ -1,4 +1,5 @@
-<script src="https://yourdomain.com/banner.js"
+<!--Automatic Banner Insertion-->
+<script src="banner.js"
     data-width="728"
     data-height="90"
     data-position="bottom-right"
